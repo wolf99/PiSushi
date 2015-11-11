@@ -1,7 +1,7 @@
 # PiSushi
 Raspberry Pi Sushi cards
 
-To add a sushi card use the [Sushi template.docx](https://github.com/wolf99/PiSushi/blob/master/Sushi%20template.docx) provided by Francis Reed
+To add a sushi card use the [Sushi Word template.dotx](https://github.com/wolf99/PiSushi/blob/master/Sushi%20template.docx) provided by Francis Reed
 
 When you first open the template, go into the Document Properties and change the `Title` and `Subject` (you may need to click `Show All Properties` to see `Subject`), this will automatically update the header. As you create new pages the header will automatically update including the page number.
 
