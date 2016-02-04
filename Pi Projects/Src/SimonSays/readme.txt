@@ -20,10 +20,10 @@ Buttons on physical pins as follows:
 
 
 Scratch Programs:
-testLEDs.sb	Uses the number keys on keyboard to turn same number LED on and off
-testButtons.sb	Switches on the LED next to each button when the button is pressed
-Simon_SDM.sb	A complete Simon game: By Sjoerd Dirk Meijer - @fromScratchEd from http://scratch.mit.edu/projects/11939445/
 
+GPIOLEDs.sb	Uses the number keys on keyboard to turn same number LED on and off
+GPIOButtons.sb	Switches on the LED next to each button when the button is pressed
+Simon_SDM.sb	A complete Simon game: By Sjoerd Dirk Meijer - @fromScratchEd from http://scratch.mit.edu/projects/11939445/
 
 Python Demo:
 TrafficLights.py	Uses LEDs 1, 2 and 3 to sequence traffic lights
